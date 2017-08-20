@@ -1,0 +1,26 @@
+name: CoreUHC
+main: Core\Main
+api: 2.0.0
+version: 1.1.0
+author: MatheoEZL
+commands:
+ uhc:
+  descriptions: UHChost Commands made by FRISCOWZ!
+  permission: uhc.cmd
+permissions:
+  UHC.group.Host:
+    default: false
+  UHC.group.Owner:
+    default: false
+  UHC.group.Admin:
+    default: false
+  UHC.group.Mod:
+    default: false
+  UHC.group.Dev:
+    default: false
+  UHC.group.Trainee:
+    default: false
+  UHC.group.Helper:
+    default: false
+  UHC.group.YouTube:
+    default: false
